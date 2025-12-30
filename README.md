@@ -204,3 +204,4 @@ MIT License
 [![Donate](https://img.shields.io/badge/Donate-PIX%2FOther-green?style=flat)](https://vendas.snoopintelligence.space/#donate)
 
 </div>
+
